@@ -9,8 +9,7 @@ include::../../../includes/header.adoc[]
 
 
 == Introduction
-
-blabla the subject
+Hubert la pomme de terre
 
 == Theory
 
